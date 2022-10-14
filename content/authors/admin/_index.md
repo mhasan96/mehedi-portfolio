@@ -10,7 +10,7 @@ last_name: Hasan
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Research Assistant at Brac University
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
